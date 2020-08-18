@@ -3,8 +3,9 @@
 
 [**Link to JavaScript Client-Side Repo**](https://github.com/boostinwrx/turbosomething_fe)
 
-This concept was created as our Flatiron School Mod 4 project.
+This concept was created as our Flatiron School Mod 4 project, with my project partner [Will Comfort](https://github.com/wcomfortI).
 
 ---
 #### *Application still in development, currently polishing up and building upon original concept*
 #### Check back soon to see the new and improved Powah! .
+
